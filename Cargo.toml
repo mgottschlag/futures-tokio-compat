@@ -5,9 +5,6 @@ authors = ["Wim Looman <wim@nemo157.com>"]
 edition = "2018"
 
 [dependencies]
-futures-core-preview = "0.3.0-alpha.19"
-futures-io-preview = "0.3.0-alpha.19"
-tokio-io = "0.2.0-alpha.6"
-tokio-executor = "0.2.0-alpha.6"
-log = "0.4.8"
+futures-io = "0.3.1"
+tokio = "0.2.9"
 pin-project = "0.4.2"
